@@ -1,13 +1,36 @@
-Project 0 Getting Started
-====================
+# Project 0 Getting Started
 
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+- Zirui Liu
+- Tested on: Windows 11, NVIDIA T1000 4GB, Compute Capability 7.5 (CETS Virtual Lab computer)
 
-### (TODO: Your README)
+## CUDA GL Check
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+![CUDA GL Check](images/cuda-gl-check.png)
+
+## Nsight Debugger
+
+![Nsight Debugger](images/nsight-debugger.png)
+
+## Nsight Systems
+
+Nsight Systems required administrator access on the CETS computer.
+
+![Nsight Systems Error](images/2.1.4-cets-error.png)
+
+## Nsight Compute
+
+Nsight Compute required administrator access to change the firewall settings.
+
+![Nsight Compute Error](images/2.1.5-cets-firewall-error.png)
+
+## WebGL
+
+![WebGL](images/webgl-report.png)
+
+![WebGL 2](images/webgl2-report.png)
+
+## WebGPU
+
+![WebGPU](images/webgpu-report.png)
