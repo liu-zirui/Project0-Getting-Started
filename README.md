@@ -2,35 +2,29 @@
 
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
-- Zirui Liu
-- Tested on: Windows 11, NVIDIA T1000 4GB, Compute Capability 7.5 (CETS Virtual Lab computer)
+* Zirui Liu
+* Tested on: Windows 10, NVIDIA GeForce RTX 3060 Laptop GPU, Compute Capability 8.6 (personal computer)
 
 ## CUDA GL Check
 
-![CUDA GL Check](images/cuda-gl-check.png)
+![CUDA GL Check](images/2.1.2.png)
 
 ## Nsight Debugger
 
-![Nsight Debugger](images/nsight-debugger.png)
+![Nsight Debugger](images/2.1.3.png)
 
 ## Nsight Systems
 
-Nsight Systems required administrator access on the CETS computer.
-
-![Nsight Systems Error](images/2.1.4-cets-error.png)
+![Nsight Systems](images/2.1.4.png)
 
 ## Nsight Compute
 
-Nsight Compute required administrator access to change the firewall settings.
-
-![Nsight Compute Error](images/2.1.5-cets-firewall-error.png)
+![Nsight Compute Summary](images/2.1.5.png)
 
 ## WebGL
 
-![WebGL](images/webgl-report.png)
-
-![WebGL 2](images/webgl2-report.png)
+![WebGL](images/2.2.png)
 
 ## WebGPU
 
-![WebGPU](images/webgpu-report.png)
+![WebGPU](images/2.3.png)
