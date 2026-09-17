@@ -1,4 +1,5 @@
-# Project 0 Getting Started
+Getting Started
+======================
 
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
